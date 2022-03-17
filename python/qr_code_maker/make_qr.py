@@ -3,4 +3,4 @@ import pyqrcode
 #from PIL import Image
 
 qr = pyqrcode.create('http://threshlife.blogspot.com/')
-qr.png('qr_code_my_website.png', scale = 10)
+qr.png('ready_qr/qr_code_my_website2.png', scale = 10)
