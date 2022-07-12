@@ -1,0 +1,15 @@
+/Users/yuandre/Desktop/myprojects/c_sharp/app/bin/Debug/net6.0/app
+/Users/yuandre/Desktop/myprojects/c_sharp/app/bin/Debug/net6.0/app.deps.json
+/Users/yuandre/Desktop/myprojects/c_sharp/app/bin/Debug/net6.0/app.runtimeconfig.json
+/Users/yuandre/Desktop/myprojects/c_sharp/app/bin/Debug/net6.0/app.dll
+/Users/yuandre/Desktop/myprojects/c_sharp/app/bin/Debug/net6.0/app.pdb
+/Users/yuandre/Desktop/myprojects/c_sharp/app/obj/Debug/net6.0/app.csproj.AssemblyReference.cache
+/Users/yuandre/Desktop/myprojects/c_sharp/app/obj/Debug/net6.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuandre/Desktop/myprojects/c_sharp/app/obj/Debug/net6.0/app.AssemblyInfoInputs.cache
+/Users/yuandre/Desktop/myprojects/c_sharp/app/obj/Debug/net6.0/app.AssemblyInfo.cs
+/Users/yuandre/Desktop/myprojects/c_sharp/app/obj/Debug/net6.0/app.csproj.CoreCompileInputs.cache
+/Users/yuandre/Desktop/myprojects/c_sharp/app/obj/Debug/net6.0/app.dll
+/Users/yuandre/Desktop/myprojects/c_sharp/app/obj/Debug/net6.0/app.pdb
+/Users/yuandre/Desktop/myprojects/c_sharp/app/obj/Debug/net6.0/app.genruntimeconfig.cache
+/Users/yuandre/Desktop/myprojects/c_sharp/app/obj/Debug/net6.0/ref/app.dll
+/Users/yuandre/Desktop/myprojects/c_sharp/app/bin/Debug/net6.0/ref/app.dll
