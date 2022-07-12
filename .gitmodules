@@ -1,0 +1,3 @@
+[submodule "objective_c/Mousecape"]
+	path = objective_c/Mousecape
+	url = https://github.com/alexzielenski/Mousecape.git
